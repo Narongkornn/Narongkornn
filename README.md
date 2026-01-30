@@ -4,7 +4,6 @@ Computer Science @ Thammasat University
 Interested in Cloud Engineering, Serverless Architectures, and Platform Systems  
 Hands-on experience building AWS-based event-driven and backend systems
 
----
 
 ## ☁️ Cloud & Tech Stack
 
@@ -13,7 +12,6 @@ Hands-on experience building AWS-based event-driven and backend systems
 - Architecture: Serverless, Event-driven systems, RESTful APIs
 - Tools: Git, Docker (basic), Linux, Postman
 
----
 
 ## 🚀 Featured Projects
 
@@ -28,7 +26,6 @@ Hands-on experience building AWS-based event-driven and backend systems
 - Implemented backend services using AWS Lambda, DynamoDB, and API Gateway
 - Deployed static frontend using Amazon S3
 
----
 
 ## 📫 Contact
 - Email: naronkornbb@gmail.com
