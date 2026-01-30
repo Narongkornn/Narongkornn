@@ -1,4 +1,4 @@
-👋 Hi, I'm Narongkorn (Cloud Engineering Student)
+# 👋 Hi, I'm Narongkorn (Cloud Engineering Student)
 
 Computer Science @ Thammasat University  
 Interested in Cloud Engineering, Serverless Architectures, and Platform Systems  
@@ -6,7 +6,7 @@ Hands-on experience building AWS-based event-driven and backend systems
 
 ---
 
-☁️ Cloud & Tech Stack
+## ☁️ Cloud & Tech Stack
 
 - Programming: Python, Java, JavaScript, SQL
 - Cloud: AWS (Lambda, S3, DynamoDB, SQS, EventBridge, API Gateway, IAM)
@@ -15,7 +15,7 @@ Hands-on experience building AWS-based event-driven and backend systems
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### AI-Based Route Optimization System (Last-Mile Delivery)
 - Designed a serverless, event-driven system for optimizing delivery routes in near real-time
@@ -30,6 +30,5 @@ Hands-on experience building AWS-based event-driven and backend systems
 
 ---
 
-📫 Contact
+## 📫 Contact
 - Email: naronkornbb@gmail.com
-- LinkedIn: (ใส่ของคุณ)
