@@ -9,7 +9,7 @@ Hands-on experience building AWS-based event-driven and backend systems
 
 - Programming: Python, Java, JavaScript, SQL
 - Cloud: AWS (Lambda, S3, DynamoDB, SQS, EventBridge, API Gateway, IAM)
-- Architecture: Serverless, Event-driven systems, RESTful APIs
+- Infrastructure & Architecture: Serverless, Event-driven systems, RESTful APIs, Terraform, CloudFormation
 - Tools: Git, Docker (basic), Linux, Postman
 
 
